@@ -1,0 +1,13 @@
+C:\Users\Ayan\source\repos\ctors\ctors\bin\Debug\netcoreapp3.1\ctors.exe
+C:\Users\Ayan\source\repos\ctors\ctors\bin\Debug\netcoreapp3.1\ctors.deps.json
+C:\Users\Ayan\source\repos\ctors\ctors\bin\Debug\netcoreapp3.1\ctors.runtimeconfig.json
+C:\Users\Ayan\source\repos\ctors\ctors\bin\Debug\netcoreapp3.1\ctors.runtimeconfig.dev.json
+C:\Users\Ayan\source\repos\ctors\ctors\bin\Debug\netcoreapp3.1\ctors.dll
+C:\Users\Ayan\source\repos\ctors\ctors\bin\Debug\netcoreapp3.1\ctors.pdb
+C:\Users\Ayan\source\repos\ctors\ctors\obj\Debug\netcoreapp3.1\ctors.csprojAssemblyReference.cache
+C:\Users\Ayan\source\repos\ctors\ctors\obj\Debug\netcoreapp3.1\ctors.csproj.CoreCompileInputs.cache
+C:\Users\Ayan\source\repos\ctors\ctors\obj\Debug\netcoreapp3.1\ctors.AssemblyInfoInputs.cache
+C:\Users\Ayan\source\repos\ctors\ctors\obj\Debug\netcoreapp3.1\ctors.AssemblyInfo.cs
+C:\Users\Ayan\source\repos\ctors\ctors\obj\Debug\netcoreapp3.1\ctors.dll
+C:\Users\Ayan\source\repos\ctors\ctors\obj\Debug\netcoreapp3.1\ctors.pdb
+C:\Users\Ayan\source\repos\ctors\ctors\obj\Debug\netcoreapp3.1\ctors.genruntimeconfig.cache
